@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Larva Lake
+  m_Shader: {fileID: -6465566751694194690, guid: 77198de5044f0bc418bd040d1d2d236a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_14109AD9:
+        m_Texture: {fileID: 2800000, guid: 51a4f1490e02ba64fa68022227cf2745, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B66EAD2F:
+        m_Texture: {fileID: 2800000, guid: 404f15b8fe12fc54d9c435f8cbaa3298, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2C5545D1: 6
+    - Vector1_32B23003: 0.5
+    - Vector1_86817056: 0.3
+    - Vector1_9F3146BA: 50
+    - Vector1_A99D25C7: 0.5
+    - Vector1_BEA78DE7: 0.05
+    - Vector1_D61B8021: 0
+    - Vector1_E0FE5297: 1.1
+    - Vector1_EA4CCC64: 1.5
+    - Vector1_FE715576: 0.5
+    m_Colors:
+    - Color_AB809E4D: {r: 1, g: 0.48588234, b: 0.18823528, a: 1}
+    - Color_D9289018: {r: 6.4980197, g: 1.0546521, b: 1.4175429, a: 1}
+    - Vector2_3F7C8E95: {r: 0, g: -0.05, b: 0, a: 0}
+    - Vector2_7BA1E073: {r: 0, g: -0.05, b: 0, a: 0}
+    - Vector2_9916AD19: {r: 1.5, g: 0.5, b: 0, a: 0}
+    - Vector2_9ACA38B1: {r: -0.01, g: 0.01, b: 0, a: 0}
+    - Vector2_9BB48220: {r: 0.2, g: 3.63, b: 0, a: 0}
+    - Vector2_C2473E93: {r: -0.27, g: 1, b: 0, a: 0}
+    - Vector2_DFE968DA: {r: 0, g: 0.001, b: 0, a: 0}
